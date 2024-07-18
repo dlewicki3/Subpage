@@ -45,7 +45,7 @@ font-size: 120px;
 
 .k1
 {
-    width: 90%;
+    width: 95%;
 }
 .small-txt1
 {
@@ -62,7 +62,11 @@ font-size: 120px;
     {
         width: 100%;
     }
-
+.o1
+{
+    height: 800px;
+   
+}
 }
 @media only screen and (max-width: 500px) {
 
